@@ -21,17 +21,8 @@ Run node gbapp.js to start the server.  (Hit CTRL-C to stop.)
 
 Point your browser to `http://localhost:8081`. 
 
-## Reference
 
-Express in Action: Writing, building, and testing Node.js applications
-by Evan M. Hahn
-
-https://www.manning.com/books/express-in-action
-
-See free Chapter 3 download 
-
-Source code at https://github.com/EvanHahn/Express.js-in-Action-code/
-
+Created By Tarun Peddireddy
 
 
 
