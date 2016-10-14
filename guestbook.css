@@ -1,0 +1,38 @@
+footer{
+margin-top:150px;
+color: sandybrown;
+}
+
+#mainheader{
+    margin-top:20px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orangered;
+}
+
+#all{
+    margin:20px 20px 10px 20px;
+    padding:10px 110x 10px 10px;
+    border: 2px inset lightslategrey;
+    border-radius:20px;
+}
+
+body{
+    margin-top:20px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightpink
+    
+}
+
+#thisisone{
+    border:2px inset saddlebrown;
+    margin:10px 20px 20px 20px;
+}
+
+#title{
+    font-size: 2em;
+    font-style: bold;
+    font-weight: 600;
+    color: dodgerblue;
+}
